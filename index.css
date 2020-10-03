@@ -1,0 +1,42 @@
+body {
+  background-color: lightgray;
+}
+.jumbotron {
+  text-align: center;
+  background-image: url('res/banner_bg.jpg');
+  background-size: cover;
+  background
+}
+.row {
+  margin-top: 20px !important;
+}
+#about {
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.bg-light {
+  background-color: #EEE !important;
+}
+.bg-secondary {
+}
+#fastFacts {
+  padding: 10px;
+  margin-bottom: 10px;
+  text-shadow: 2px 3px 4px black, 2px 3px 4px gray;
+}
+
+.btn-sm {
+  text-shadow: 2px 2px 6px black;
+}
+svg {
+  margin: 10px;
+  width: 75px;
+}
+
+#github {
+  fill: #000000;
+}
+
+#linkedin {
+  fill: #0077B5;
+}
